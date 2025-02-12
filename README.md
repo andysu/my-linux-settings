@@ -1,4 +1,2 @@
-```
-my setiings and db files for linux
-fast install!!
-``` 
+# my setiings and db files for linux fast install!!
+
